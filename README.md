@@ -36,7 +36,7 @@ onigiri_lite mama
 
 ### 免责声明
 
-*   词典数据来源于 [沪江小D]('http://dict.hjenglish.com/jp/jc')，仅用于个人学习交流使用
+*   词典数据来源于 [沪江小D](http://dict.hjenglish.com/jp/jc)，仅用于个人学习交流使用
 *   在使用过程中，程序会将用户的查询结果缓存起来（本地缓存 + 服务器缓存），但不会上传查词结果之外任何用户数据
 *   Dependent on [lxml](http://lxml.de). The lxml library is shipped under a **[BSD license](https://github.com/lxml/lxml/blob/master/doc/licenses/BSD.txt)**. libxml2 and libxslt2 itself are shipped under the **[MIT license](http://www.opensource.org/licenses/mit-license.html)**. There should therefore be no obstacle to using lxml in your codebase.
 *   <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
