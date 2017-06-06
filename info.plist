@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.mikuscallion.onigiri_jp_dict</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict>
+		<key>08A1F592-ACE8-4A19-A223-7F07F20692BB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>72BBCF5F-E60A-4635-9BDA-3F6949FAEF84</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>79D3ADED-D6E6-4C4C-9DDB-6DC1C201AA30</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>64D928A9-295A-4BDB-B11D-6DB9C955570E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B065ED67-D8F1-4772-951E-02A9BE85B92F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EE1DD9FC-0862-4B11-8AD6-3B63E78B85B1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0A16AAA7-D658-40F1-ABE8-4A86A44A1FF3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8A7EE53B-573E-4238-A216-CD77AE6CFA07</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>155AA5D9-0DFB-4471-BAC9-88492E303254</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>527E2E35-5E34-4B14-AA49-FF6892E50086</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>19C60FA0-AC64-469E-8182-3F9CF30E3DB1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>08A1F592-ACE8-4A19-A223-7F07F20692BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2D969021-B8F1-4807-B5F9-0FDF3D8FD223</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E04A9C54-AC1C-49C1-9E21-9F49F4E9525D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>413B4252-AC20-4FC8-A43B-49299DC6695E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>155AA5D9-0DFB-4471-BAC9-88492E303254</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>50628044-3D04-47CA-A839-B71EE1BF7A66</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>58B79FAE-9B32-495A-9D2B-838335B6E948</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>527E2E35-5E34-4B14-AA49-FF6892E50086</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>79D3ADED-D6E6-4C4C-9DDB-6DC1C201AA30</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>58B79FAE-9B32-495A-9D2B-838335B6E948</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FE1A3D4F-A883-407A-B1EB-5FB80E59DA70</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>64D928A9-295A-4BDB-B11D-6DB9C955570E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C3A60B7C-391B-4C0D-9160-B50221B93ECC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>68479879-77DB-40FB-BD44-481312F4F9E8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BAE2D771-97DE-4043-924A-5B61039F7B7A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>72BBCF5F-E60A-4635-9BDA-3F6949FAEF84</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>413B4252-AC20-4FC8-A43B-49299DC6695E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>77365E79-4BCF-4164-99C5-65E93BD23E82</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>50628044-3D04-47CA-A839-B71EE1BF7A66</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>79D3ADED-D6E6-4C4C-9DDB-6DC1C201AA30</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2D969021-B8F1-4807-B5F9-0FDF3D8FD223</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B065ED67-D8F1-4772-951E-02A9BE85B92F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DCFDEA42-21B3-41FC-8C5D-24709D491CF1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C3A60B7C-391B-4C0D-9160-B50221B93ECC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3CCED32F-9A23-418F-A008-0766E6FD995D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DCFDEA42-21B3-41FC-8C5D-24709D491CF1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>68479879-77DB-40FB-BD44-481312F4F9E8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E04A9C54-AC1C-49C1-9E21-9F49F4E9525D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>77365E79-4BCF-4164-99C5-65E93BD23E82</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E2838444-EDB0-4D05-A744-14970516F96D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>08A1F592-ACE8-4A19-A223-7F07F20692BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EE1DD9FC-0862-4B11-8AD6-3B63E78B85B1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0A16AAA7-D658-40F1-ABE8-4A86A44A1FF3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>MIKUScallion</string>
+	<key>description</key>
+	<string>饭团日语词典</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>饭团日语词典</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string>org.videolan.vlc</string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>FE1A3D4F-A883-407A-B1EB-5FB80E59DA70</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+import os
+import sys
+import json
+import tmp
+
+query = sys.argv[1]
+
+w_uid = query
+
+payload = json.loads(os.environ['payload'])
+tmp_data = tmp.get()
+
+word = payload[w_uid]
+
+items = []
+
+for k_type in word['type'].keys():
+	btype = word['type'][k_type]
+	tmp_type = {
+        'uid':  btype['uid'],
+		'arg': 'btype/' + btype['uid'],
+		'title': btype['title'],
+		'subtitle': btype['subtitle'],
+        'mods': {
+            'ctrl': { 
+              'subtitle': "敬请期待"
+             },
+            'alt': {
+              'subtitle': "按 Cmd + L 可查看全部内容"
+             }
+        },
+	    'text': {
+			'copy': btype['title'] + ' ' + btype['subtitle'],
+			'largetype': btype['title'] + ' ' + btype['subtitle']
+		},
+		'icon': {
+			'path': './assets/popsicle.png'
+		}
+	}
+	items.append(tmp_type)
+
+tmp_data['t_items'] = items
+tmp_data['w_uid'] = w_uid
+
+tmp.set(tmp_data)
+
+sys.stdout.write(word['title'])</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>155AA5D9-0DFB-4471-BAC9-88492E303254</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+import sys
+import os
+import json
+
+import tmp
+
+query = sys.argv[1]
+old_query = os.environ['old_query'] if os.environ.has_key('old_query') else None
+
+tmp_data = tmp.get()
+
+items = tmp_data['t_items']
+
+result = {
+    'variables': {
+		'old_query': query
+	},
+	'items': items
+}
+
+result_str = json.dumps(result)
+
+sys.stdout.write(result_str)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>527E2E35-5E34-4B14-AA49-FF6892E50086</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+import sys
+import os
+import json
+
+import tmp
+
+query = sys.argv[1]
+old_query = os.environ['old_query'] if os.environ.has_key('old_query') else None
+
+tmp_data = tmp.get()
+
+items = tmp_data['e_items']
+
+result = {
+	'variables': {
+		'old_query': query
+	},
+	'items': items
+}
+
+result_str = json.dumps(result)
+
+sys.stdout.write(result_str)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>77365E79-4BCF-4164-99C5-65E93BD23E82</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+import os
+import sys
+import json
+import tmp
+
+query = sys.argv[1]
+
+t_uid = query
+
+payload = json.loads(os.environ['payload'])
+tmp_data = tmp.get()
+
+w_uid = tmp_data['w_uid']
+word = payload[w_uid]
+
+type = word['type'][t_uid]
+
+items = []
+
+for key_ex in type['example'].keys():
+	ex = type['example'][key_ex]
+	tmp_ex = {
+		'uid': ex['uid'],
+         'arg': ex['uid'],
+		'title': ex['title'],
+		'subtitle': ex['title'],
+        'mods': {
+            'ctrl': {
+              'subtitle': "敬请期待"
+             },
+            'alt': {
+              'subtitle': "按 Cmd + L 可查看全部内容"
+             }
+        },
+	    'text': {
+			'copy': ex['title'] + ' ' + ex['subtitle'],
+			'largetype': ex['title'] + ' ' + ex['subtitle']
+		},
+		'icon': {
+			'path': './assets/scallion.png'
+		}
+	}
+	if ex['audio']:
+		tmp_ex['mods']['ctrl'] = {
+			  'arg': 'read/' + ex['audio'],
+              'subtitle': "按 Enter 可听发音（ 需要安装有 VLC 播放器）"
+		}
+	items.append(tmp_ex)
+
+tmp_data['e_items'] = items
+tmp_data['t_uid'] = t_uid
+
+tmp.set(tmp_data)
+
+sys.stdout.write(word['title'] + ' ' + type['title'])</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E04A9C54-AC1C-49C1-9E21-9F49F4E9525D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>read/.*</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>50628044-3D04-47CA-A839-B71EE1BF7A66</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>word/</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>413B4252-AC20-4FC8-A43B-49299DC6695E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>word/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>72BBCF5F-E60A-4635-9BDA-3F6949FAEF84</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>read/</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>58B79FAE-9B32-495A-9D2B-838335B6E948</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>btype/</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>2D969021-B8F1-4807-B5F9-0FDF3D8FD223</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>btype/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>79D3ADED-D6E6-4C4C-9DDB-6DC1C201AA30</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>onigiri</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>努力查询 "{query}" 中 ……</string>
+				<key>script</key>
+				<string>#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+import sys
+import os
+import json
+
+import main
+
+if len(sys.argv) &gt; 1:
+  query = sys.argv[1]
+else:
+  query = ''
+
+old_query = os.environ['old_query'] if os.environ.has_key('old_query') else None
+
+init = {
+    'rerun': 0.3,
+	'variables': {
+		'old_query': query
+	},
+	'items': [
+		{
+			'title': '饭团日语词典（日中）',
+			'subtitle': '努力查询 "%s" 中 ……' % (query)
+		}
+	]
+}
+
+if old_query and query != old_query :
+	sys.stdout.write(json.dumps(init))
+	sys.exit(1)
+
+default = {
+    	'variables': {
+        'old_query': query,
+	},
+    'items': [{
+        'arg': 'default/' + query,
+        'title': '查询不到相关 "%s" 的内容' % (query),
+        'subtitle': '原因可能是网络问题或查询词不存在，按 Tab 可快速清除重试，Enter 可调用系统字典 ）',
+        'autocomplete': '',
+        'mods': {
+            'ctrl': { 
+              'subtitle': "联系我们／反馈意见：MIKUScallion@icloud.com"
+             },
+            'alt': {
+              'arg': 'wipe_cache/',
+              'subtitle': "按 Enter 清除缓存"
+             }
+        },
+	    'text': {
+			'copy': ' ',
+			'largetype': ' '
+		}
+    }]
+}
+
+payload = main.get(query)
+
+if not payload:
+	sys.stdout.write(json.dumps(default))
+	sys.exit(1)
+
+w_items = []
+
+for key_w in payload.keys():
+	word = payload[key_w]
+	tmp_word = {
+		'uid': word['uid'],
+		'arg': 'word/' + word['uid'],
+		'title': word['title'],
+		'subtitle': word['subtitle'],
+         'mods': {
+            'ctrl': { 'subtitle': "敬请期待" },
+            'alt': { 'subtitle': "按 Cmd + L 可查看全部内容" }
+         },
+	     'text': {
+			'copy': word['title'],
+			'largetype': word['title'] + '\n' + word['subtitle']
+		 }
+	}
+	if word['audio']:
+		tmp_word['mods']['ctrl'] = {
+			  'arg': 'read/' + word['audio'],
+              'subtitle': "按 Enter 可听发音（ 需要安装有 VLC 播放器）"
+		}
+	w_items.append(tmp_word)
+
+result = {
+	'variables': {
+         'old_query': query,
+		'payload': json.dumps(payload)
+	},
+	'items': w_items
+}
+
+result_str = json.dumps(result)
+
+sys.stdout.write(result_str)
+
+sys.exit(0)
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>请输入要查询的字词</string>
+				<key>title</key>
+				<string>饭团日语词典（日中）</string>
+				<key>type</key>
+				<integer>3</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>19C60FA0-AC64-469E-8182-3F9CF30E3DB1</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>饭团日语词典</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>3CCED32F-9A23-418F-A008-0766E6FD995D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+import sys
+import main
+
+main.clean()
+
+sys.stdout.write('清除缓存成功')</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C3A60B7C-391B-4C0D-9160-B50221B93ECC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>wipe_cache/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>64D928A9-295A-4BDB-B11D-6DB9C955570E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>08A1F592-ACE8-4A19-A223-7F07F20692BB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>keyword</key>
+				<string></string>
+				<key>language</key>
+				<string></string>
+				<key>showallwords</key>
+				<false/>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.dictionaryfilter</string>
+			<key>uid</key>
+			<string>68479879-77DB-40FB-BD44-481312F4F9E8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>dict://{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>BAE2D771-97DE-4043-924A-5B61039F7B7A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>default/</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>B065ED67-D8F1-4772-951E-02A9BE85B92F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>default/</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>DCFDEA42-21B3-41FC-8C5D-24709D491CF1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>onigiri_lite</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>2</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>努力查询 "{query}" 中 ……</string>
+				<key>script</key>
+				<string>#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+import sys
+import os
+import json
+
+import main
+
+if len(sys.argv) &gt; 1:
+  query = sys.argv[1]
+else:
+  query = ''
+
+old_query = os.environ['old_query'] if os.environ.has_key('old_query') else None
+
+init = {
+    'rerun': 0.3,
+	'variables': {
+		'old_query': query
+	},
+	'items': [
+		{
+			'title': '饭团日语词典（日中）',
+			'subtitle': '努力查询 "%s" 中 ……' % (query)
+		}
+	]
+}
+
+if old_query and query != old_query :
+	sys.stdout.write(json.dumps(init))
+	sys.exit(1)
+
+default = {
+    	'variables': {
+        'old_query': query,
+	},
+    'items': [{
+        'arg': 'default/' + query,
+        'title': '查询不到相关 "%s" 的内容' % (query),
+        'subtitle': '原因可能是网络问题或查询词不存在，按 Tab 可快速清除重试，Enter 可调用系统字典 ）',
+        'autocomplete': '',
+        'mods': {
+            'ctrl': { 
+              'subtitle': "联系我们／反馈意见：MIKUScallion@icloud.com"
+             },
+            'alt': {
+              'arg': 'wipe_cache/',
+              'subtitle': "按 Enter 清除缓存"
+             }
+        },
+	    'text': {
+			'copy': ' ',
+			'largetype': ' '
+		}
+    }]
+}
+
+payload = main.get(query)
+
+if not payload:
+	sys.stdout.write(json.dumps(default))
+	sys.exit(1)
+
+items = []
+
+for key_w in payload.keys():
+	word = payload[key_w]
+	tmp_word = {
+		 'arg': 'word/' + word['uid'],
+		 'title': word['title'],
+		 'subtitle': word['subtitle'],
+          'mods': {
+            'ctrl': { 'subtitle': "敬请期待" },
+            'alt': { 'subtitle': "按 Cmd + L 可查看全部内容" }
+         },
+	     'text': {
+			'copy': word['title'],
+			'largetype': word['title'] + '\n' + word['subtitle']
+		 }
+	}
+	if word['audio']:
+		tmp_word['mods']['ctrl'] = {
+			  'arg': 'read/' + word['audio'],
+              'subtitle': "按 Enter 可听发音（ 需要安装有 VLC 播放器）"
+		}
+	items.append(tmp_word)
+
+	for key_t in word['type'].keys():
+		btype = word['type'][key_t]
+		tmp_type = {
+			'arg': 'btype/' + btype['uid'],
+			'title': btype['title'],
+			'subtitle': btype['subtitle'],
+        		'mods': {
+            		'ctrl': { 
+              		'subtitle': "敬请期待"
+             	},
+            		'alt': {
+              		'subtitle': "按 Cmd + L 可查看全部内容"
+             	}
+        		},
+	    		'text': {
+				'copy': btype['title'] + ' ' + btype['subtitle'],
+				'largetype': btype['title'] + ' ' + btype['subtitle']
+			},
+			'icon': {
+				'path': './assets/popsicle.png'
+			}
+		}
+		items.append(tmp_type)
+
+result = {
+	'variables': {
+         'old_query': query,
+		'payload': json.dumps(payload)
+	},
+	'items': items
+}
+
+result_str = json.dumps(result)
+
+sys.stdout.write(result_str)
+
+sys.exit(0)
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>请输入要查询的字词</string>
+				<key>title</key>
+				<string>饭团日语词典简版（日中）</string>
+				<key>type</key>
+				<integer>3</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>E2838444-EDB0-4D05-A744-14970516F96D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string>org.videolan.vlc</string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>8A7EE53B-573E-4238-A216-CD77AE6CFA07</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<false/>
+				<key>matchmode</key>
+				<integer>2</integer>
+				<key>matchstring</key>
+				<string>read/.*</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>EE1DD9FC-0862-4B11-8AD6-3B63E78B85B1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>read/</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>0A16AAA7-D658-40F1-ABE8-4A86A44A1FF3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>1</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>argumenttext</key>
+				<string>onigiri </string>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>31</integer>
+				<key>hotmod</key>
+				<integer>1048576</integer>
+				<key>hotstring</key>
+				<string>O</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>AAFF5D96-A563-4407-807A-0F6588F94B49</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>1</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>argumenttext</key>
+				<string>onigiri_lite </string>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>31</integer>
+				<key>hotmod</key>
+				<integer>524288</integer>
+				<key>hotstring</key>
+				<string>O</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>F8112247-893A-4AC4-BB65-15FF3BC3AA66</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Onigiri 饭团日语词典
+
+饭团日语词典 是 Alfred 3 的一个 Workflow，用于快速查询日语单词（ 日 -&gt; 中 ），查询结果除基本信息外还包含读音与例句等。
+
+详情请查看 README.md</string>
+	<key>uidata</key>
+	<dict>
+		<key>08A1F592-ACE8-4A19-A223-7F07F20692BB</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>230</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>0A16AAA7-D658-40F1-ABE8-4A86A44A1FF3</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>750</integer>
+			<key>ypos</key>
+			<integer>590</integer>
+		</dict>
+		<key>155AA5D9-0DFB-4471-BAC9-88492E303254</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>550</integer>
+			<key>ypos</key>
+			<integer>90</integer>
+		</dict>
+		<key>19C60FA0-AC64-469E-8182-3F9CF30E3DB1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>230</integer>
+		</dict>
+		<key>2D969021-B8F1-4807-B5F9-0FDF3D8FD223</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>970</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>3CCED32F-9A23-418F-A008-0766E6FD995D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>1040</integer>
+			<key>ypos</key>
+			<integer>300</integer>
+		</dict>
+		<key>413B4252-AC20-4FC8-A43B-49299DC6695E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>470</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>50628044-3D04-47CA-A839-B71EE1BF7A66</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>1440</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>527E2E35-5E34-4B14-AA49-FF6892E50086</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>90</integer>
+		</dict>
+		<key>58B79FAE-9B32-495A-9D2B-838335B6E948</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>1520</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>64D928A9-295A-4BDB-B11D-6DB9C955570E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>330</integer>
+		</dict>
+		<key>68479879-77DB-40FB-BD44-481312F4F9E8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>850</integer>
+			<key>ypos</key>
+			<integer>440</integer>
+		</dict>
+		<key>72BBCF5F-E60A-4635-9BDA-3F6949FAEF84</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>420</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>77365E79-4BCF-4164-99C5-65E93BD23E82</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>1260</integer>
+			<key>ypos</key>
+			<integer>90</integer>
+		</dict>
+		<key>79D3ADED-D6E6-4C4C-9DDB-6DC1C201AA30</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>890</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>8A7EE53B-573E-4238-A216-CD77AE6CFA07</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>850</integer>
+			<key>ypos</key>
+			<integer>560</integer>
+		</dict>
+		<key>AAFF5D96-A563-4407-807A-0F6588F94B49</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>20</integer>
+			<key>ypos</key>
+			<integer>740</integer>
+		</dict>
+		<key>B065ED67-D8F1-4772-951E-02A9BE85B92F</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>BAE2D771-97DE-4043-924A-5B61039F7B7A</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>1040</integer>
+			<key>ypos</key>
+			<integer>440</integer>
+		</dict>
+		<key>C3A60B7C-391B-4C0D-9160-B50221B93ECC</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>850</integer>
+			<key>ypos</key>
+			<integer>300</integer>
+		</dict>
+		<key>DCFDEA42-21B3-41FC-8C5D-24709D491CF1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>750</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>E04A9C54-AC1C-49C1-9E21-9F49F4E9525D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>1100</integer>
+			<key>ypos</key>
+			<integer>90</integer>
+		</dict>
+		<key>E2838444-EDB0-4D05-A744-14970516F96D</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>540</integer>
+		</dict>
+		<key>EE1DD9FC-0862-4B11-8AD6-3B63E78B85B1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>590</integer>
+		</dict>
+		<key>F8112247-893A-4AC4-BB65-15FF3BC3AA66</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>190</integer>
+			<key>ypos</key>
+			<integer>740</integer>
+		</dict>
+		<key>FE1A3D4F-A883-407A-B1EB-5FB80E59DA70</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>1610</integer>
+			<key>ypos</key>
+			<integer>90</integer>
+		</dict>
+	</dict>
+	<key>version</key>
+	<string>1.1</string>
+	<key>webaddress</key>
+	<string>https://github.com/MIKUScallion/onigiri_jp_dict</string>
+</dict>
+</plist>
