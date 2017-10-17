@@ -2,6 +2,10 @@
 
 饭团日语词典 是 Alfred 3 的一个 Workflow，用于快速查询日语单词（ 日 -> 中 ），查询结果除基本信息外，还包含读音与例句等。
 
+## 安装
+
+先要安装 Alfred 3，可以在官网下载。需要解锁 Alfred 3 的 Powerpack。然后在 https://github.com/MIKUScallion/onigiri_jp_dict/releases 下载压缩包，解压后双击即可调用 Alfred 进行安装了。
+
 ## 用法
 
 ### 完全版
